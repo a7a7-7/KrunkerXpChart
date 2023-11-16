@@ -9,13 +9,13 @@ Author: a7a7-7(a6a6), goonmandu
 * _**Future Features**_
   * Structuring player data using json
 
-* **Dependencies**
+* _**Dependencies**_
   * Selenium 4.15.2
   * Matplotlib 3.8.1
   * BeautifulSoup4 4.12.2
   * chromedriver
 
-* Contributors
+* _**Contributors**_
   * goonmandu
     * Implementing easy class XP parsing using BeautifulSoup4
 
