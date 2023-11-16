@@ -23,6 +23,6 @@ Author: a7a7-7(a6a6), goonmandu
 
 
 
-                                            **Special thanks to goonmandu**
+                                            Special thanks to goonmandu
 
 
